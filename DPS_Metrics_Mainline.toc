@@ -1,0 +1,29 @@
+## Interface: 100207,110000,110002
+##----------------------------------------------
+## Title: DPS_Metrics
+## Notes: Accurate DPS Metrics for target dummies and live play
+## Version: 0.5.0
+## X-MAJOR: 0
+## X-MINOR: 5
+## X-PATCH: 0
+## X-Expansion: Classic, Cataclysm, Retail
+## SavedVariablesPerCharacter:
+## SavedVariables:
+## IconTexture: 1408997
+## Version: V0.10 
+## 30 July, 2024
+## Dependencies: WoWThreads
+## X-github: https://github.com/mtp1032/DPS_Metrics
+
+##---------------------------------------------
+##              AddOn Code
+##---------------------------------------------
+
+CleuCore.lua
+Localization.lua
+CleuDisplay.lua
+CleuEvent.lua
+CleuMain.lua
+README.md
+##MinimapIcon.lua
+##CommandLine.lua
